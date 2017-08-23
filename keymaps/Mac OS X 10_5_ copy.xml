@@ -1,8 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="Console.Execute.Multiline" />
   <action id="EditSourceInNewWindow">
-    <keyboard-shortcut first-keystroke="shift f4" />
     <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="EditorSplitLine" />
   <action id="InsertLiveTemplate" />
