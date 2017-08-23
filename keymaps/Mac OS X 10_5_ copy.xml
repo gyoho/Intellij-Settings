@@ -1,9 +1,12 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Console.Execute.Multiline" />
   <action id="EditSourceInNewWindow">
     <keyboard-shortcut first-keystroke="shift f4" />
     <mouse-shortcut keystroke="Force touch" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="InsertLiveTemplate" />
+  <action id="KotlinShellExecute" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
   </action>
@@ -26,5 +29,10 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="ScalaConsole.Execute" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
 </keymap>
