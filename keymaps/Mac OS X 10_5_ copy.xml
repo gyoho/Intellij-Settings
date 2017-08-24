@@ -5,6 +5,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="ExpressionTypeInfo" />
   <action id="InsertLiveTemplate" />
   <action id="KotlinShellExecute" />
   <action id="MoveEditorToOppositeTabGroup">
@@ -18,6 +19,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl meta alt end" />
   </action>
+  <action id="Play2.TypeInfo" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
@@ -26,8 +28,16 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl meta alt home" />
   </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="SaveAll" />
+  <action id="Scala.TypeInfo">
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="ScalaConsole.Execute" />
   <action id="SmartTypeCompletion">
