@@ -1,5 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Console.Execute.Multiline" />
+  <action id="DatabaseView.PropertiesAction" />
   <action id="EditSourceInNewWindow">
     <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="meta t" />
