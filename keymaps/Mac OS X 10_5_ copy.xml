@@ -13,7 +13,7 @@
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="KotlinShellExecute" />
@@ -51,6 +51,9 @@
   <action id="ScalaConsole.Execute" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
