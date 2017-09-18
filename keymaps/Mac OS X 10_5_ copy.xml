@@ -10,6 +10,11 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="KotlinShellExecute" />
   <action id="MoveEditorToOppositeTabGroup">
