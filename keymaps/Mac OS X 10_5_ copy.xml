@@ -3,10 +3,14 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.NextPage" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="EditSourceInNewWindow">
     <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
@@ -20,6 +24,7 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
   </action>
+  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
