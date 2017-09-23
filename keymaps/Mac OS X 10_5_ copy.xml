@@ -7,7 +7,7 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="EditSourceInNewWindow">
     <mouse-shortcut keystroke="Force touch" />
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta alt down" />
@@ -55,11 +55,11 @@
   </action>
   <action id="SaveAll" />
   <action id="Scala.TypeInfo">
-    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ScalaConsole.Execute" />
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="meta enter" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="alt s" />
