@@ -50,6 +50,9 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
