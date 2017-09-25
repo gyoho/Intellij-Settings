@@ -2,6 +2,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.NextPage" />
   <action id="DatabaseView.PropertiesAction" />
@@ -19,7 +22,15 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="KotlinShellExecute" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
