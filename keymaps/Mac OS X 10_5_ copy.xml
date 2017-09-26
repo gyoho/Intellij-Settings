@@ -28,6 +28,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="InsertLiveTemplate" />
   <action id="Jdbc.OpenEditor.DDL">
