@@ -2,12 +2,14 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.NextPage" />
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ShowDiff" />
   <action id="EditSourceInNewWindow">
     <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -17,6 +19,7 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="Git.CompareWithBranch">
@@ -55,7 +58,7 @@
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
@@ -72,6 +75,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ScalaConsole.Execute" />
+  <action id="SendEOF" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
@@ -80,4 +84,5 @@
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
