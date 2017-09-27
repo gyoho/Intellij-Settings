@@ -7,9 +7,30 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Console.TableResult.NextPage" />
+  <action id="DSM.OpenInEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Database.OpenDbStorageAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Debugger.EditFrameSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Diff.ShowDiff" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditSourceInNewWindow">
     <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -17,8 +38,12 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
+  <action id="EditorNextWordWithSelection" />
   <action id="EditorSplitLine" />
   <action id="ExpressionTypeInfo" />
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="FindPrevious" />
@@ -30,12 +55,26 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta caps_lock" />
   </action>
@@ -47,6 +86,9 @@
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl meta alt end" />
+  </action>
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Play2.TypeInfo" />
   <action id="PrevSplitter">
@@ -68,8 +110,14 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="RunDashboard.EditConfiguration">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="SaveAll" />
   <action id="Scala.TypeInfo">
@@ -77,13 +125,22 @@
   </action>
   <action id="ScalaConsole.Execute" />
   <action id="SendEOF" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="Vcs.Log.OpenRepositoryVersion">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
