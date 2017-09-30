@@ -67,9 +67,6 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="KotlinShellExecute" />
-  <action id="LocalHistory.ShowHistory">
-    <keyboard-shortcut first-keystroke="shift meta h" />
-  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -140,6 +137,9 @@
   </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
