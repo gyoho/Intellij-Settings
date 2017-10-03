@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.AddUnversioned" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -40,6 +41,7 @@
   </action>
   <action id="EditorNextWordWithSelection" />
   <action id="EditorSplitLine" />
+  <action id="EditorToggleCase" />
   <action id="ExpressionTypeInfo" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
@@ -48,7 +50,13 @@
   <action id="FindNext" />
   <action id="FindPrevious" />
   <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="shift b" />
+  </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
@@ -126,6 +134,7 @@
   </action>
   <action id="ScalaConsole.Execute" />
   <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -135,11 +144,12 @@
   <action id="Vcs.Log.OpenRepositoryVersion">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowHistoryForBlock">
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="shift s" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="alt h" />
+    <keyboard-shortcut first-keystroke="shift h" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
