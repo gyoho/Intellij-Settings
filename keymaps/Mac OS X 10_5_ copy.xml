@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta i" />
@@ -49,6 +53,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="FindPrevious" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
