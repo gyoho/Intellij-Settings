@@ -5,7 +5,7 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
