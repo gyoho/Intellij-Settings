@@ -1,6 +1,6 @@
 <application>
   <component name="ScalaCodeFoldingSettings">
-    <option name="collapseMultilineBlocks" value="true" />
-    <option name="collapseMultilineStrings" value="true" />
+    <option name="collapseBlockComments" value="true" />
+    <option name="foldingForAllBlocks" value="true" />
   </component>
 </application>
