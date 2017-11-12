@@ -1,0 +1,6 @@
+<application>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseBlockComments" value="true" />
+    <option name="foldingForAllBlocks" value="true" />
+  </component>
+</application>
