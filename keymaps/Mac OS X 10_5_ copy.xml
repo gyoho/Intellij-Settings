@@ -111,6 +111,7 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
