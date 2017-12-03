@@ -4,6 +4,9 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangesView.AddUnversioned" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
@@ -46,6 +49,7 @@
   <action id="EditorNextWordWithSelection" />
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase" />
+  <action id="EvaluateExpression" />
   <action id="ExpressionTypeInfo" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
@@ -53,6 +57,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="FindPrevious" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -117,6 +125,7 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl meta alt home" />
   </action>
+  <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
     <keyboard-shortcut first-keystroke="meta d" />
