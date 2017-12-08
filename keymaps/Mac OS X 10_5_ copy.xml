@@ -147,6 +147,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="SaveAll" />
+  <action id="Scala.GoToImplicit">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
