@@ -40,7 +40,6 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditSourceInNewWindow">
-    <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorDuplicate">
