@@ -5,8 +5,13 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" pattern="\bkey\b.*">
+      <option name="FOREGROUND" value="7282ff" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
   </component>
 </application>
