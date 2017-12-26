@@ -13,5 +13,6 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern pattern="\bnote\b.*" />
   </component>
 </application>
