@@ -14,5 +14,10 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern pattern="\bnote\b.*" />
+    <pattern useCustomColors="true" pattern="\bdiscovery\b.*">
+      <option name="FOREGROUND" value="c03b3f" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
   </component>
 </application>
