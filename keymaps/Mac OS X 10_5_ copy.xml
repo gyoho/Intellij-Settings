@@ -19,6 +19,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DSM.OpenInEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -146,6 +147,10 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="SaveAll" />
+  <action id="Scala.Desugar" />
+  <action id="Scala.GenerateScaladoc">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
   <action id="Scala.GoToImplicit">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
