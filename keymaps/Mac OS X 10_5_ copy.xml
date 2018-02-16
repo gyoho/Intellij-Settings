@@ -10,6 +10,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
