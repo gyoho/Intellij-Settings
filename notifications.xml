@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Branch Context group" displayType="NONE" />
+  </component>
+</application>

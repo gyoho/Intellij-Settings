@@ -4,8 +4,14 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangesView.AddUnversioned" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
@@ -16,6 +22,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DSM.OpenInEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -37,7 +44,6 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="EditSourceInNewWindow">
-    <mouse-shortcut keystroke="Force touch" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorDuplicate">
@@ -46,6 +52,7 @@
   <action id="EditorNextWordWithSelection" />
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase" />
+  <action id="EvaluateExpression" />
   <action id="ExpressionTypeInfo" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
@@ -53,6 +60,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="FindPrevious" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -111,11 +122,13 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl meta alt home" />
   </action>
+  <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
     <keyboard-shortcut first-keystroke="meta d" />
@@ -137,6 +150,13 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="SaveAll" />
+  <action id="Scala.Desugar" />
+  <action id="Scala.GenerateScaladoc">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
+  <action id="Scala.GoToImplicit">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
