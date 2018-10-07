@@ -135,7 +135,6 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
