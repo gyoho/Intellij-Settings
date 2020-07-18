@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="jvmopts" type="PLAIN_TEXT" />
-      <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern="input_dsp" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="bson" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="plugins" type="SBT" />
     </extensionMap>
   </component>

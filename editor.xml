@@ -1,9 +1,13 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <EXCLUDED_PACKAGE NAME="akka.stream.ActorMaterializer" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
