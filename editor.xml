@@ -9,6 +9,10 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseBlockComments" value="true" />
+    <option name="foldingForAllBlocks" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
