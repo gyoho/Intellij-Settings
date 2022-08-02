@@ -1,13 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="jvmopts" type="PLAIN_TEXT" />
-      <mapping pattern="input_dsp" type="PLAIN_TEXT" />
-      <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
-      <mapping ext="ctmpl" type="PLAIN_TEXT" />
-      <mapping ext="bson" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="plugins" type="SBT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
