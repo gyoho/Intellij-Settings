@@ -5,7 +5,6 @@
     <option name="COMPILE_SERVER_ID" value="d5431159-6e0f-4e9f-99dc-f72819fd0e25" />
     <option name="USE_DEFAULT_SDK" value="false" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
     <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss15m -XX:+UseParallelGC -XX:MaxInlineLevel=20 -XX:+HeapDumpOnOutOfMemoryError" />
   </component>
 </application>
