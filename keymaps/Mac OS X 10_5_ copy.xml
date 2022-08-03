@@ -134,9 +134,7 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
+  <action id="QuickJavaDoc" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
