@@ -1,0 +1,6 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="InsertLiveTemplate" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+</keymap>
